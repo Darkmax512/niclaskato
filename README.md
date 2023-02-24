@@ -87,8 +87,8 @@
 ## My GitHub Stats 📊
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="160px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&theme=highcontrast&layout=compact&hide_border=true" alt="used-langs-niclas" height="160px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true" alt="readme-stats-niclas" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&theme=highcontrast&layout=compact&hide_border=true" alt="used-langs-niclas" height="180px"/>
 </p>
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=niclaskato&no-bg=true&column=7&theme=tokyonight&margin-w=15" alt="trophy-niclas" height="180px"/>
